@@ -43,7 +43,7 @@
 }
 .image-scroll-container 
 {
-    padding-top: 3%;
+    padding-top: 2%;
     width: 100%; 
     overflow: hidden;
     position: relative;
@@ -57,9 +57,9 @@
 
 .image-scroll img 
 {
-    width: 12%;
+    width: 10%;
     height: auto;
-    margin-right: 50px;
+    margin-right: 70px;
 }
 
 @keyframes scroll {

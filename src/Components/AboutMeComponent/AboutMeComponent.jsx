@@ -6,7 +6,7 @@ import cssLogo from '../../assets/AppLogo/css-logo.png'
 import jsLogo from '../../assets/AppLogo/js-logo.png'
 import reactLogo from '../../assets/AppLogo/react-logo.png'
 import nodeLogo from '../../assets/AppLogo/node-logo.png'
-import mongodbLogo from '../../assets/AppLogo/mongodb-logo.jpeg'
+import mongodbLogo from '../../assets/AppLogo/mongodb-logo.png'
 import javaLogo from '../../assets/AppLogo/java-logo.png'
 
 const AboutMeComponent = () => {
